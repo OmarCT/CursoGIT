@@ -1,3 +1,5 @@
 Hola, esta es mi historia.
 
 Me llamo Omar Celis tengo 30 años y soy de México.
+
+Actualmente trabajo para Credijusto como desarrollador Java.
